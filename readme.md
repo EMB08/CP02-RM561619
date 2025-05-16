@@ -1,0 +1,1 @@
+echo "Conteúdo adicional para o Chekpoint 2."
