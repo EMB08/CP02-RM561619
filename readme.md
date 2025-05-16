@@ -1,1 +1,1 @@
-echo "Conteúdo adicional para o Chekpoint 2."
+echo "Conteúdo adicional para o Checkpoint 2."
